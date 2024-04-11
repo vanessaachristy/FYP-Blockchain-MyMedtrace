@@ -1,8 +1,8 @@
 [submodule "mymedtrace-fe"]
-	path = mymedtrust-fe
+	path = mymedtrace-fe
 	url = https://github.com/vanessaachristy/mymedtrust-fe.git
 [submodule "mymedtrace-be"]
-	path = mymedtrust-be
+	path = mymedtrace-be
 	url = https://github.com/vanessaachristy/mymedtrust-be.git
 [submodule "mymedtrace-web3"]
 	path = mymedtrust-web3
