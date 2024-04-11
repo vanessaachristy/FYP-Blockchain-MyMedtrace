@@ -7,3 +7,6 @@
 [submodule "mymedtrust-web3"]
 	path = mymedtrust-web3
 	url = https://github.com/vanessaachristy/mymedtrust.git
+[submodule "mymedtrace-be-flask"]
+	path = mymedtrace-be-flask
+	url = https://github.com/vanessaachristy/mymedtrace-be-py.git
