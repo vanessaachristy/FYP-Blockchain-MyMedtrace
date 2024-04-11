@@ -5,7 +5,7 @@
 	path = mymedtrace-be
 	url = https://github.com/vanessaachristy/mymedtrust-be.git
 [submodule "mymedtrace-web3"]
-	path = mymedtrust-web3
+	path = mymedtrace-web3
 	url = https://github.com/vanessaachristy/mymedtrust.git
 [submodule "mymedtrace-be-flask"]
 	path = mymedtrace-be-flask
