@@ -1,0 +1,9 @@
+[submodule "mymedtrust-fe"]
+	path = mymedtrust-fe
+	url = https://github.com/vanessaachristy/mymedtrust-fe.git
+[submodule "mymedtrust-be"]
+	path = mymedtrust-be
+	url = https://github.com/vanessaachristy/mymedtrust-be.git
+[submodule "mymedtrust-web3"]
+	path = mymedtrust-web3
+	url = https://github.com/vanessaachristy/mymedtrust.git
