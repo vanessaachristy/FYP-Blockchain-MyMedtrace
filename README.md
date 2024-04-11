@@ -23,11 +23,11 @@ Each repository contains its own setup guide and instructions for running the ap
 
 ## Final Report and Demo
 
-The project includes a comprehensive final report detailing the development process, challenges, and results. Additionally, demo videos showcase the key features and functionality of the application.
+The project includes a comprehensive [final report](https://github.com/vanessaachristy/FYP-Blockchain-MyMedtrace/blob/2404e94f6ce11bc040185d3269ec127d77171e21/Blockchain%20FYP%20Final%20Report%20-%20Vanessa%20Christy%20Chandra.docx) detailing the development process, challenges, and results. Additionally, demo videos showcase the key features and functionality of the application.
 
 ## Let's Connect!💬
 
 If you have any questions or feedback about MyMedtrace, feel free to reach out! I'm excited to share this project and hear your thoughts 😊
 
-[Email Me](vanessa.chandra2002@gmail.com)
+[Email Me](mailto:vanessa.chandra2002@gmail.com)
 [Linkedin](https://linkedin.com/in/vanessa-christy)
