@@ -1,12 +1,15 @@
-[submodule "mymedtrust-fe"]
+[submodule "mymedtrace-fe"]
 	path = mymedtrust-fe
 	url = https://github.com/vanessaachristy/mymedtrust-fe.git
-[submodule "mymedtrust-be"]
+[submodule "mymedtrace-be"]
 	path = mymedtrust-be
 	url = https://github.com/vanessaachristy/mymedtrust-be.git
-[submodule "mymedtrust-web3"]
+[submodule "mymedtrace-web3"]
 	path = mymedtrust-web3
 	url = https://github.com/vanessaachristy/mymedtrust.git
 [submodule "mymedtrace-be-flask"]
 	path = mymedtrace-be-flask
 	url = https://github.com/vanessaachristy/mymedtrace-be-py.git
+[submodule "mymedtrust-blockchain"]
+	path = mymedtrust-blockchain
+	url = https://github.com/vanessaachristy/mymedtrust.git
